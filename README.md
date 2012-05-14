@@ -57,10 +57,15 @@
 
 <h3>Configuration</h3>
 
+<pre><code>
+
+	all:
+	  sfphpthumbplugin_cache_path: cache/
+	  base_id: %SF_UPLOAD_DIR%
+	  no_image: %SF_UPLOAD_DIR%/no-image.jpg
+
+</code></pre>
+
 #app.yml
-all:
-  sfphpthumbplugin_cache_path: cache/
-  base_id: %SF_UPLOAD_DIR%
-  no_image: %SF_UPLOAD_DIR%/no-image.jpg
 
 
