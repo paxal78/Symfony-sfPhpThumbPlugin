@@ -58,7 +58,7 @@
 <h3>Configuration</h3>
 
 <pre><code>
-
+	#app.yml
 	all:
 	  sfphpthumbplugin_cache_path: cache/
 	  base_id: %SF_UPLOAD_DIR%
@@ -66,8 +66,8 @@
 
 </code></pre>
 
-#app.yml
+
 
 <p>
-	 <a target="_blank" href="https://github.com/masterexploder/PHPThumb/wiki">Wiki phpthumb</a>
+	 <a target="_blank" href="http://phpthumb.gxdlabs.com/"> phpthumb</a>
 </p>
