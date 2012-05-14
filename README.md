@@ -1,5 +1,5 @@
 <h2>Instructions for use</h2>
-<p>This plugin for Symfony (tested on 1.4v) is built on <a href="http://phpthumb.gxdlabs.com/">http://phpthumb.gxdlabs.com/</a>.</p>
+<p>This plugin for Symfony (tested on 1.4v) is built on <a target="_blank" href="http://phpthumb.gxdlabs.com/">http://phpthumb.gxdlabs.com/</a>.</p>
 <h3>Basic</h3>
 
 
@@ -68,4 +68,6 @@
 
 #app.yml
 
-
+<p>
+	 <a target="_blank" href="https://github.com/masterexploder/PHPThumb/wiki">Wiki phpthumb</a>
+</p>
