@@ -1,0 +1,3 @@
+phpthunb_cc:
+  url:     /phpthumb-clear-cache  
+  param:   { module: sfOzPhpthumb, action: clear }
